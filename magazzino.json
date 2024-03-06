@@ -1,0 +1,626 @@
+[
+    {
+        "nome" : "Banana",
+        "prezzo" : 0.98,
+        "quantita" : 100,
+        "reparto" : "Frutta e Verdura"
+    },
+    {
+        "nome" : "Birra",
+        "prezzo" : 0.99,
+        "quantita" : 100,
+        "reparto" : "Bibite e Alcolici"
+    },
+    {
+        "nome" : "Detersivo Lavatrice",
+        "prezzo" : 8.90,
+        "quantita" : 100,
+        "reparto" : "Pulizia Casa"
+    },
+    {
+        "nome" : "Arancia",
+        "prezzo" : 1.69,
+        "quantita" : 100,
+        "reparto" : "Frutta e Verdura"
+    },
+    {
+        "nome" : "Ananas",
+        "prezzo" : 1.29,
+        "quantita" : 100,
+        "reparto" : "Frutta e Verdura"
+    },
+    {
+        "nome" : "Mela",
+        "prezzo" : 1.33,
+        "quantita" : 100,
+        "reparto" : "Frutta e Verdura"
+    },
+    {
+        "nome" : "Patata",
+        "prezzo" : 1.20,
+        "quantita" : 100,
+        "reparto" : "Frutta e Verdura"
+    },
+    {
+        "nome" : "Radicchio",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Frutta e Verdura"
+    },
+    {
+        "nome" : "Hamburger",
+        "prezzo" : 3.69,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Cosce di Pollo",
+        "prezzo" : 3.99,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Salsiccia",
+        "prezzo" : 3.89,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Fettine di Vitellone",
+        "prezzo" : 12.90,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Petto di Pollo",
+        "prezzo" : 10.90,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Prosciutto Crudo",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Prosciutto Cotto",
+        "prezzo" : 2.49,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Bresaola",
+        "prezzo" : 2.79,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Arrosto di Tacchino",
+        "prezzo" : 1.79,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Salame Milano",
+        "prezzo" : 1.79,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Wurstel",
+        "prezzo" : 0.69,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Prosciutto Cotto",
+        "prezzo" : 2.49,
+        "quantita" : 100,
+        "reparto" : "Macelleria"
+    },
+    {
+        "nome" : "Totano",
+        "prezzo" : 6.90,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Filetto di Merluzzo",
+        "prezzo" : 18.90,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Filetto di Orata",
+        "prezzo" : 17.90,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Vongole",
+        "prezzo" : 15.90,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Cozze",
+        "prezzo" : 6.90,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Tonno",
+        "prezzo" : 3.59,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Filetto di Sgombro",
+        "prezzo" : 1.75,
+        "quantita" : 100,
+        "reparto" : "Pescheria"
+    },
+    {
+        "nome" : "Philadelpia",
+        "prezzo" : 2.29,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Ricotta",
+        "prezzo" : 0.95,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Mozzarella",
+        "prezzo" : 2.98,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Grana Padano",
+        "prezzo" : 3.60,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Latte Parzialmente Scremato",
+        "prezzo" : 1.49,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Burro",
+        "prezzo" : 2.20,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Yogurt",
+        "prezzo" : 2.29,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Actimel",
+        "prezzo" : 2.59,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Minestrone",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Patatine Fritte",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Spinaci",
+        "prezzo" : 2.99,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Piselli",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Bastoncini di Merluzzo",
+        "prezzo" : 3.49,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Gelato",
+        "prezzo" : 3.99,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Pizza surgelata",
+        "prezzo" : 2.19,
+        "quantita" : 100,
+        "reparto" : "Surgelati"
+    },
+    {
+        "nome" : "Olive",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Fagioli",
+        "prezzo" : 0.69,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Patatine Classiche",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Patatine al Formaggio",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Patatine al Peperoncino",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Patatine al Rosmarino",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Patatine al Pepe Nero",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Passata di Pomodoro",
+        "prezzo" : 0.79,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Polpa di Pomodoro",
+        "prezzo" : 2.49,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Pomodori Pelati",
+        "prezzo" : 0.55,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Riso",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Brodo Vegetale",
+        "prezzo" : 1.59,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Cracker",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Grissini",
+        "prezzo" : 1.49,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Pan Bauletto",
+        "prezzo" : 0.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Pan Carrè",
+        "prezzo" : 0.99,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Marmellata",
+        "prezzo" : 3.49,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Nutella",
+        "prezzo" : 3.49,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Miele",
+        "prezzo" : 4.49,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Fette Biscottate",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Baiocchi",
+        "prezzo" : 2.79,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Kinder Brioss",
+        "prezzo" : 2.49,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Biscotti Macine",
+        "prezzo" : 1.29,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Biscotti Tarallucci",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Fette Biscottate",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Gocciole",
+        "prezzo" : 2.49,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Bucaneve",
+        "prezzo" : 0.75,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Oro Ciok",
+        "prezzo" : 2.45,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Wafer",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Acqua",
+        "prezzo" : 0.29,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Aranciata",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Bibite e Alcolici"
+    },
+    {
+        "nome" : "Coca-Cola",
+        "prezzo" : 2.29,
+        "quantita" : 100,
+        "reparto" : "Bibite e Alcolici"
+    },
+    {
+        "nome" : "Vino",
+        "prezzo" : 15.99,
+        "quantita" : 100,
+        "reparto" : "Bibite e Alcolici"
+    },
+    {
+        "nome" : "Prosecco",
+        "prezzo" : 4.99,
+        "quantita" : 100,
+        "reparto" : "Bibite e Alcolici"
+    },
+    {
+        "nome" : "Shampoo",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Carta Igienica",
+        "prezzo" : 2.59,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Scottex",
+        "prezzo" : 2.59,
+        "quantita" : 100,
+        "reparto" : "Pulizia Casa"
+    },
+    {
+        "nome" : "Dentifricio",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Spazzolino",
+        "prezzo" : 3.99,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Bagnoschiuma",
+        "prezzo" : 2.49,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Fazzoletti",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Detergente Intimo",
+        "prezzo" : 1.59,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Sapone",
+        "prezzo" : 1.49,
+        "quantita" : 100,
+        "reparto" : "Igiene"
+    },
+    {
+        "nome" : "Detersivo",
+        "prezzo" : 1.49,
+        "quantita" : 100,
+        "reparto" : "Pulizia Casa"
+    },
+    {
+        "nome" : "Ammorbidente",
+        "prezzo" : 2.99,
+        "quantita" : 100,
+        "reparto" : "Pulizia Casa"
+    },
+    {
+        "nome" : "Candeggina",
+        "prezzo" : 1.99,
+        "quantita" : 100,
+        "reparto" : "Pulizia Casa"
+    },
+    {
+        "nome" : "Sgrassatore",
+        "prezzo" : 1.75,
+        "quantita" : 100,
+        "reparto" : "Pulizia Casa"
+    },
+    {
+        "nome" : "Sottilette",
+        "prezzo" : 1.29,
+        "quantita" : 100,
+        "reparto" : "Latticini"
+    },
+    {
+        "nome" : "Maionese",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Prodotti Alimentari"
+    },
+    {
+        "nome" : "Penne Rigate",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Spaghetti",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Rigatoni",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Farfalle",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Fusilli",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Trofie",
+        "prezzo" : 1.49,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Orecchiette",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Gnocchi",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Bucatini",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Gramigna",
+        "prezzo" : 1.49,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Tortellini",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Pasta"
+    },
+    {
+        "nome" : "Cereali",
+        "prezzo" : 1.89,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    },
+    {
+        "nome" : "Latte",
+        "prezzo" : 0.89,
+        "quantita" : 100,
+        "reparto" : "Colazione"
+    }
+]
